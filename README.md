@@ -83,9 +83,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Link to React App <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Link to React App](https://github.com/kennankole/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
