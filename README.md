@@ -111,7 +111,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/kennankole/hello-rails-back-end.git
 ```
---->
 
 ### Install
 
